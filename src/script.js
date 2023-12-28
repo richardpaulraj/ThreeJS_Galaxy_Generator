@@ -24,7 +24,7 @@ parameters.randomness = 0.2
 parameters.randomnessPower = 10
 parameters.insideColor = '#ff6030'
 parameters.outsideColor = '#1b3984'
-parameters.rotate = false,
+parameters.rotate = true,
 
 parameters.y_axis1 = -0.8,
 parameters.y_axis2 = 0.8
